@@ -1,5 +1,4 @@
 ### Hello 👋
-## I've recently learned of the importance of documenting my work on Github. Give it some time 🌱
 
 <!--
 **k4rba/k4rba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
