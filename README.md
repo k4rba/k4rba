@@ -1,7 +1,7 @@
 ### 👋 _Hello!!!!_ 👋
 
 I store mostly private repositories here, im a bit torn between BitBucket and GitHub.
-Excuse me for the mess!
+Excuse the mess!
 
 <!--
 **k4rba/k4rba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
